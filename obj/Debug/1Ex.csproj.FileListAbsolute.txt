@@ -1,0 +1,8 @@
+C:\Users\chips\source\repos\1Ex\1Ex\bin\Debug\1Ex.exe.config
+C:\Users\chips\source\repos\1Ex\1Ex\bin\Debug\1Ex.exe
+C:\Users\chips\source\repos\1Ex\1Ex\bin\Debug\1Ex.pdb
+C:\Users\chips\source\repos\1Ex\1Ex\obj\Debug\1Ex.csproj.AssemblyReference.cache
+C:\Users\chips\source\repos\1Ex\1Ex\obj\Debug\1Ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\chips\source\repos\1Ex\1Ex\obj\Debug\1Ex.csproj.CoreCompileInputs.cache
+C:\Users\chips\source\repos\1Ex\1Ex\obj\Debug\1Ex.exe
+C:\Users\chips\source\repos\1Ex\1Ex\obj\Debug\1Ex.pdb
